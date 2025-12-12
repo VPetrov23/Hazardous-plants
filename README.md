@@ -63,11 +63,11 @@
 
 ## Руководство по использованию
 
+Загрузите модель: https://github.com/VPetrov23/Hazardous-plants/blob/main/hazardous_plants.h5
 
-## Быстрый старт
-Шаг 1: Подготовка окружения
 
-## Установка всех необходимых компонентов
+
+### Шаг 1: Установка всех необходимых компонентов
 ```python
 !pip install tensorflow
 # Или, если есть NVIDIA GPU
@@ -75,12 +75,13 @@ pip install tensorflow-gpu
 !pip install matplotlib
 !pip install numpy
 ```
-Шаг 2: Загрузка датасета
-## Всего две настройки для начала работы
+
+### Шаг 2: Загрузка датасета
 
 Датасет, используемый для создания модели, можно найти по ссылкам:
 
 https://www.kaggle.com/datasets/krhemantk/hazardous-plant
+
 https://drive.google.com/file/d/15PZrK6fcpR-2u73BtDveEze_D9IcfX1C/view?usp=drive_link
 
 Распакуйте датасет себе на компьютер или в Google drive.
@@ -99,12 +100,12 @@ drive.mount('/content/drive')
 dataset_dir = pathlib.Path('/content/drive/folder_path')
 ```
 
-## Обновление датасета
+## Шаг 3: Обновление датасета (опционально)
 
 При желании вы можете дополнить датасет своими растениями. Для этого создайте внутри папки датасета свою папку с нужным растением.
 Загрузите в нее изображения данного растения и присвойте нужное название.
 
-## Обучение модели
+## Шаг 4: Обучение модели
 
 
 
