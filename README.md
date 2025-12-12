@@ -73,11 +73,16 @@
 
 Ссылка на файл: https://github.com/VPetrov23/Hazardous-plants/blob/main/Plant%20classification.ipynb
 
+Ссылка в Google drive (для работы в Colab): https://drive.google.com/file/d/1A3EagDcsKTnL6FMMXcpZF_zqNQRemyLB/view?usp=sharing
+
 2) **Project hazardous plants.ipynb** - ноутбук, в котором обучалась модель. Воспользуйтесь при необходимости расширить перечень определяемых растений.
 
 Ссылка на файл: https://github.com/VPetrov23/Hazardous-plants/blob/main/Project%20hazardous%20plants.ipynb
 
+Ссылка в Google drive (для работы в Colab): https://colab.research.google.com/drive/14XRF3vq4rtD2_tUqW1wrXjbnBP84lKyW#scrollTo=78f94b2c
+
 3) Ссылка на предобученную модель **hazardous_plants**: https://github.com/VPetrov23/Hazardous-plants/blob/main/hazardous_plants.h5
+
 
 ## Работа с предобученной моделью
 
